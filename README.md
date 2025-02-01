@@ -9,4 +9,4 @@ proovin iga päev uuendada miskit
    lisatud branch "week-1"
 4. update > 30.01.25
 5. update > 31.01.25
-
+6. update > 01.02.25
