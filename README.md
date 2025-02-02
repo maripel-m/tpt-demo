@@ -10,3 +10,4 @@ proovin iga päev uuendada miskit
 4. update > 30.01.25
 5. update > 31.01.25
 6. update > 01.02.25
+7. update > 02.02.25
