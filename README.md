@@ -15,3 +15,4 @@ proovin iga päev uuendada miskit
 9. update > 04.02.25
     lisatud branch "week-2"
 10. update > 05.02.25
+11. update > 06.02.25
