@@ -28,3 +28,4 @@ proovin iga päev uuendada miskit
 20. update > 16.02.25
 21. update > 17.02.25
     lisatud branch "week-4"
+22. update > 18.02.25
