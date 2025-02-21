@@ -31,3 +31,4 @@ proovin iga päev uuendada miskit
 22. update > 18.02.25
 23. update > 19.02.25
 24. update > 20.02.25
+25. update > 21.02.25
